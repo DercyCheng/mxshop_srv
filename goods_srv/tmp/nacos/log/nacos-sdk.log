@@ -1,0 +1,12 @@
+2023-02-15T22:21:33.652+0800	[31mERROR[0m	nacos_server/nacos_server.go:194	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"goods_srv.json","group":"zsz","tenant":"618fb780-93f9-4826-98c2-2bbe89accab4"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2023-02-15T22:21:33.657+0800	[31mERROR[0m	nacos_server/nacos_server.go:194	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"goods_srv.json","group":"zsz","tenant":"618fb780-93f9-4826-98c2-2bbe89accab4"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2023-02-15T22:21:33.659+0800	[31mERROR[0m	nacos_server/nacos_server.go:194	api</v1/cs/configs>,method:<GET>, params:<{"dataId":"goods_srv.json","group":"zsz","tenant":"618fb780-93f9-4826-98c2-2bbe89accab4"}>, call domain error:<[404] config data not exist
+> , result:<config data not exist
+>
+2023-02-15T22:21:33.660+0800	[31mERROR[0m	config_client/config_client.go:191	get config from server error:[404] config data not exist
+ 
+2023-02-15T22:21:33.660+0800	[33mWARN[0m	config_client/config_client.go:196	[client.GetConfig] config not found, dataId: goods_srv.json, group: zsz, namespaceId: 618fb780-93f9-4826-98c2-2bbe89accab4.
